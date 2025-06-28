@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/louistrue/louistrue/main/assets/foto_TuLo-mod.png"
-       alt="Louis Trümpler" width="150" height="150"/>
-</div>
-
 # 👋 Hi, I'm Louis Trümpler  
 Founder - **LTplus AG** | BIM/VDC Specialist | Sustainability Advocate
 
