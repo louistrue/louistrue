@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/louistrue/louistrue/raw/main/assets/louistrue.png" alt="Louis Trümpler" width="150" height="150"/>
+  <img src="https://github.com/louistrue/louistrue/raw/main/assets/foto_TuLo-mod" alt="Louis Trümpler" width="150" height="150"/>
 </div>
 
 # 👋 Hi, I'm Louis Trümpler  
