@@ -25,7 +25,7 @@ I'm passionate about merging sustainable design with digital tools to build smar
 | **[openBIM-service](https://github.com/louistrue/openBIM-service)** | FastAPI Service for parsing IFC files using IfcOpenShell | Python |
 | **[PythonForIFC](https://github.com/louistrue/PythonForIFC)** | Python scripts & apps for working with IFC STEP files | Python |
 
-🛠️ See more in my pinned repositories above.
+🛠️ See more in my pinned repositories below.
 
 ---
 
