@@ -14,19 +14,18 @@ I'm passionate about merging sustainable design with digital tools to build smar
 - **Sustainability Consulting:** Embodied carbon reduction through integrated LCA strategy and streamlined IFC workflows
 ---
 
+
 ## 📁 Featured Projects
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| **[IfcLCA](https://github.com/louistrue/IfcLCA)** | Opensource Life Cycle Assessment for Built Environment | TypeScript |
-| **[ifc-classifier](https://github.com/louistrue/ifc-classifier)** | Visual IFC model classification | TypeScript |
-| **[ifc-flow](https://github.com/louistrue/ifc-flow)** | Visual workflow builder for IFC data processing | TypeScript |
-| **[model-checker](https://github.com/opensource-construction/model-checker)** | BIM model validation and quality control | TypeScript |
-| **[openBIM-service](https://github.com/louistrue/openBIM-service)** | FastAPI Service for parsing IFC files using IfcOpenShell | Python |
-| **[PythonForIFC](https://github.com/louistrue/PythonForIFC)** | Python scripts & apps for working with IFC STEP files | Python |
+| Project | Repo | Live Site | Description | Tech |
+|--------|------|-----------|-------------|------|
+| **IfcLCA** | [Repo](https://github.com/IfcLCA/IfcLCA) | [ifclca.com](https://ifclca.com) | Open-source LCA platform using IFC & Swiss KBOB data, wasm/pyo­di­e for browser-based analysis  [oai_citation:0‡ifclca.com](https://ifclca.com/?utm_source=chatgpt.com) | TypeScript, Python |
+| **ifc-flow** | [Repo](https://github.com/louistrue/ifc-flow) | [ifcflow.com](https://ifcflow.com) | Node-based visual programming for IFC model filtering and transformation () | TypeScript |
+| **ifc-classifier** | [Repo](https://github.com/louistrue/ifc-classifier) | [classify.lt.plus](https://classify.lt.plus) | Dashboard for IFC model classification and analytics | TypeScript |
+| **model-checker** | [Repo](https://github.com/opensource-construction/model-checker) | [modelcheck.opensource.construction](https://modelcheck.opensource.construction) | BIM model validation and quality assurance | TypeScript |
+| **openBIM-service** | [Repo](https://github.com/louistrue/openBIM-service) | [openBIM-service](https://openbim-service-production.up.railway.app/docs) | FastAPI IFC parsing with IfcOpenShell | Python |
 
-🛠️ See more in my pinned repositories below.
-
+🛠 Explore these via my pinned repositories below!
 ---
 
 ## 📄 Contact
