@@ -9,7 +9,7 @@ I'm passionate about merging sustainable design with digital tools to build smar
 
 - **Timber Construction:** Integrating digital design with wood-based structural systems  
 - **BIM & VDC:** Visual scripting using Dynamo + Python-driven automation for efficient Revit workflows  
-- **IFC & Open BIM Interoperability:** Deep expertise in Industry Foundation Classes (IFC) — implementing open standards (ISO 16739) to enable cross-platform data exchange, structured model querying, and sustainable LCA workflows
+- **IFC & Open BIM Interoperability:** Deep expertise in IFC, IDS, BCF & BSDD — implementing open standards to enable cross-platform data exchange, structured model querying, and sustainable LCA workflows. 
 - **Digital Construction:** Designing full-stack tools in TypeScript and Python since 2023 for IFC data processing and lifecycle automation  
 - **Sustainability Consulting:** Embodied carbon reduction through integrated LCA strategy and streamlined IFC workflows
 ---
