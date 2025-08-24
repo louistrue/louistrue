@@ -21,7 +21,7 @@ I'm passionate about merging sustainable design with digital tools to build smar
 |--------|------|-----------|-------------|------|
 | **IfcLCA** | [Repo](https://github.com/IfcLCA/IfcLCA) | [ifclca.com](https://ifclca.com) | Open-source LCA platform using IFC & Swiss KBOB data, wasm/pyo­di­e for browser-based analysis  [oai_citation:0‡ifclca.com](https://ifclca.com/?utm_source=chatgpt.com) | TypeScript, Python |
 | **ifc-flow** | [Repo](https://github.com/louistrue/ifc-flow) | [ifcflow.com](https://ifcflow.com) | Node-based visual programming for IFC model filtering and transformation () | TypeScript |
-| **ifc-classifier** | [Repo](https://github.com/louistrue/ifc-classifier) | [classify.lt.plus](https://classify.lt.plus) | Dashboard for IFC model classification and analytics | TypeScript |
+| **ifc-classifier** | [Repo](https://github.com/louistrue/ifc-classifier) | [ifcclassify.com](https://ifcclassify.com) | Dashboard for IFC model classification and analytics | TypeScript |
 | **model-checker** | [Repo](https://github.com/opensource-construction/model-checker) | [modelcheck.opensource.construction](https://modelcheck.opensource.construction) | BIM model validation and quality assurance | TypeScript |
 | **openBIM-service** | [Repo](https://github.com/louistrue/openBIM-service) | [openBIM-service](https://openbim-service-production.up.railway.app/docs) | FastAPI IFC parsing with IfcOpenShell | Python |
 
