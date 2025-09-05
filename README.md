@@ -7,11 +7,12 @@ I'm passionate about merging sustainable design with digital tools to build smar
 
 ## 🔑 Key Skills & Expertise
 
-- **Timber Construction:** Integrating digital design with wood-based structural systems  
-- **BIM & VDC:** Visual scripting using Dynamo + Python-driven automation for efficient Revit workflows  
-- **IFC & Open BIM Interoperability:** Deep expertise in IFC, IDS, BCF & BSDD — implementing open standards to enable cross-platform data exchange, structured model querying, and sustainable LCA workflows. 
-- **Digital Construction:** Designing full-stack tools in TypeScript and Python since 2023 for IFC data processing and lifecycle automation  
-- **Sustainability Consulting:** Embodied carbon reduction through integrated LCA strategy and streamlined IFC workflows
+- **Timber Construction:** Integrating digital design with advanced wood-based structural systems  
+- **BIM & VDC:** Automation and visual scripting (Dynamo, Python) for streamlined Revit workflows and model coordination  
+- **IFC & Open BIM Interoperability:** Deep expertise in IFC, IDS, BCF & bSDD – enabling cross-platform data exchange, structured model queries, and LCA-driven processes  
+- **IFC on the Web:** Browser-based workflows using IfcOpenShell, Engine Web-Ifc, WebAssembly (WASM), Pyodide, and Three.js for real-time model parsing, visualization, and analysis  
+- **Digital Construction Tools:** Full-stack development (JS, TS, Python) for IFC data processing, lifecycle automation, and browser-based analysis since 2023  
+- **Sustainability Consulting:** Reduction of embodied carbon through integrated LCA strategies and optimized IFC-based workflows  
 ---
 
 
@@ -25,7 +26,14 @@ I'm passionate about merging sustainable design with digital tools to build smar
 | **model-checker** | [Repo](https://github.com/opensource-construction/model-checker) | [modelcheck.opensource.construction](https://modelcheck.opensource.construction) | BIM model validation and quality assurance | TypeScript |
 | **openBIM-service** | [Repo](https://github.com/louistrue/openBIM-service) | [openBIM-service](https://openbim-service-production.up.railway.app/docs) | FastAPI IFC parsing with IfcOpenShell | Python |
 
-🛠 Explore these via my pinned repositories below!
+---
+
+## ☕ Support My Work
+
+If you find my open-source projects useful, you can support me here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange)](https://buymeacoffee.com/louistrue)
+
 ---
 
 ## 📄 Contact
