@@ -1,21 +1,16 @@
-# 👋 Hi, I'm Louis  
-I'm passionate about merging sustainable design with digital tools to build smarter, low-carbon construction.
+# Hi, I'm Louis 👋,
+passionate about merging sustainable construction with digital tools to build smarter, low-carbon structures.
 
----
+## What I usually work on:
 
-## What I do
-
-- **BIM & VDC:** Automation and visual scripting (Dynamo, Python) for streamlined Revit workflows and model coordination  
-- **IFC & Open BIM Interoperability:** Deep expertise in IFC, IDS, BCF & bSDD – enabling cross-platform data exchange, structured model queries, and LCA-driven processes  
-- **IFC on the Web:** Browser-based workflows using IfcOpenShell, Engine Web-Ifc, WebAssembly (WASM), Pyodide, and Three.js for real-time model parsing, visualization, and analysis  
-- **Digital Construction Tools:** Full-stack development (JS, TS, Python) for IFC data processing, lifecycle automation, and browser-based analysis since 2023  
-- **Sustainability Consulting:** Reduction of embodied carbon through integrated LCA strategies and optimized IFC-based workflows
+- **BIM & VDC:** Automation for streamlined workflows
+- **IFC & Open BIM Interoperability:** Deep expertise in IFC, IDS, BCF & bSDD
+- **IFC on the Web:** with IfcOpenShell, Engine Web-Ifc, WebAssembly (WASM), Pyodide, Three.js & more
+- **Digital Construction Tools:** Full-stack development (JS, TS, Python)
+- **Sustainability Consulting:** Reduction of embodied carbon through integrated LCA
 - **Timber Construction:** Integrating digital design with advanced timber-based systems  
 
----
-
-
-## 📁 Featured Projects
+## Some of my Projects:
 
 | Project | Repo | Live Site | Description | Tech |
 |--------|------|-----------|-------------|------|
@@ -27,15 +22,15 @@ I'm passionate about merging sustainable design with digital tools to build smar
 
 ---
 
-## ☕ Support My Work
+## Support My Work ☕ 
 
-If you find my open-source projects useful, you can support me here:
+If you find my free & open-source projects useful, you can support me here:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange)](https://buymeacoffee.com/louistrue)
 
 ---
 
-## 📄 Contact
+## Contact
 
 - 🌐 Visit: [lt.plus](https://www.lt.plus)  
 - 💬 LinkedIn: [Louis Trümpler](https://www.linkedin.com/in/louistrue)  
@@ -43,7 +38,7 @@ If you find my open-source projects useful, you can support me here:
 
 ---
 
-## 📊 GitHub Stats
+## Some Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=louistrue&show_icons=true&count_private=true&theme=radical)
 
