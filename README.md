@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Louis Trümpler  
-Founder - **LTplus AG** | BIM/VDC Specialist | Sustainability Advocate
-
+# 👋 Hi, I'm Louis  
 I'm passionate about merging sustainable design with digital tools to build smarter, low-carbon construction.
 
 ---
 
-## 🔑 Key Skills & Expertise
+## What I do
 
-- **Timber Construction:** Integrating digital design with advanced wood-based structural systems  
 - **BIM & VDC:** Automation and visual scripting (Dynamo, Python) for streamlined Revit workflows and model coordination  
 - **IFC & Open BIM Interoperability:** Deep expertise in IFC, IDS, BCF & bSDD – enabling cross-platform data exchange, structured model queries, and LCA-driven processes  
 - **IFC on the Web:** Browser-based workflows using IfcOpenShell, Engine Web-Ifc, WebAssembly (WASM), Pyodide, and Three.js for real-time model parsing, visualization, and analysis  
 - **Digital Construction Tools:** Full-stack development (JS, TS, Python) for IFC data processing, lifecycle automation, and browser-based analysis since 2023  
-- **Sustainability Consulting:** Reduction of embodied carbon through integrated LCA strategies and optimized IFC-based workflows  
+- **Sustainability Consulting:** Reduction of embodied carbon through integrated LCA strategies and optimized IFC-based workflows
+- **Timber Construction:** Integrating digital design with advanced timber-based systems  
+
 ---
 
 
