@@ -15,39 +15,27 @@ passionate about merging sustainable construction with digital tools to build sm
 ## 🛠️ What I'm Building
 
 [**ifc-lite**](https://github.com/louistrue/ifc-lite) · [live](https://louistrue.github.io/ifc-lite/)
-> High-performance BIM viewer with Rust/WASM parser and WebGPU rendering
-> `TypeScript · Rust · WebAssembly · WebGPU` · _Implemented federated model loading for handling multiple IFC files simultaneously_
-
-[**posterboy**](https://github.com/louistrue/posterboy) · [live](https://posterboy.vercel.app)
-> AI-powered LinkedIn post generator analyzing GitHub repos with deep file analysis
-> `TypeScript · Next.js · OpenAI API · GitHub API` · _Enhanced GitHub bio AI with deep file analysis across repository structure and recent commits_
+> WebGPU-accelerated BIM viewer with Rust/WASM parser and columnar data processing
+> `TypeScript · Rust · WebGPU · WASM` · _Added 2D architectural drawing generation with title blocks and sheet setup panels | Implemented orthogonal constraint visualization for shift+drag measurements with real-time feedback_
 
 [**Issues**](https://github.com/louistrue/Issues) · [live](https://issues-puce.vercel.app)
-> Brutalist multi-repo GitHub issue aggregator for landscape e-ink displays
-> `JavaScript · Express · GitHub API` · _Redesigned with pure brutalist aesthetic removing opacity effects and grey strokes_
+> Brutalist multi-repo issue aggregator for landscape e-ink displays
+> `JavaScript · Node.js · GitHub API`
 
 [**ifc-flow**](https://github.com/louistrue/ifc-flow) · [live](https://ifcflow.com)
-> Visual node-based editor for IFC file processing and analysis workflows
-> `TypeScript · Next.js · React Flow · Monaco Editor`
+> Visual node-based editor for IFC file manipulation and processing workflows
+> `TypeScript · Next.js · React Flow · Radix UI`
 
 [**ids-flow**](https://github.com/louistrue/ids-flow) · [live](https://www.idsedit.com/)
 > Drag-and-drop visual editor for buildingSMART IDS specifications with XML export
-> `TypeScript · Next.js · React · XML Processing` · _Built comprehensive interactive documentation site with facet examples and developer guides_
+> `TypeScript · Next.js · React · Radix UI` · _Fixed IDS audit validation and refactored menubar layout with scroll overflow improvements_
 
 [**family-calendar**](https://github.com/louistrue/family-calendar) · [live](https://family-calendar-ashen.vercel.app)
-> Multi-calendar aggregator with touchscreen display for ESP32 or Raspberry Pi. Day/week/month views with auto-refresh and kiosk mode.
-> `TypeScript`
-
-[**model-health-checker**](https://github.com/louistrue/model-health-checker) · [live](https://www.modelhealthcheck.com)
-> No description
-> `TypeScript`
+> Multi-calendar aggregator for ESP32/Raspberry Pi touchscreens with kiosk mode
+> `TypeScript · Next.js · ESP32 · Raspberry Pi` · _Fixed recurring event date handling to prevent events appearing on wrong days_
 
 [**ifcclash**](https://github.com/louistrue/ifcclash)
 > IFC clash detection tool with Flask API and React 3D viewer for detecting geometric conflicts in building models
-> `TypeScript`
-
-[**swiss-zoning-api**](https://github.com/louistrue/swiss-zoning-api) · [live](https://v0-swiss-zoning-api.vercel.app)
-> No description
 > `TypeScript`
 
 [**ifc-data-browser**](https://github.com/louistrue/ifc-data-browser) · [live](https://ifcsql.com)
@@ -58,12 +46,12 @@ passionate about merging sustainable construction with digital tools to build sm
 > Web-based IFC model validator for BIM projects. Validates against IDS requirements and common issues using client-side WASM processing.
 > `TypeScript`
 
-[**gh-describer**](https://github.com/louistrue/gh-describer)
-> Auto-generate professional GitHub repository descriptions using AI analysis of your codebase and file structure.
-> `TypeScript`
-
 [**ifc-classifier**](https://github.com/louistrue/ifc-classifier) · [live](https://ifcclassify.com)
 > Web-based 3D IFC classification editor. Assign Uniclass/eBKP-H references to models using Three.js and web-ifc.
+> `TypeScript`
+
+[**gh-describer**](https://github.com/louistrue/gh-describer)
+> Auto-generate professional GitHub repository descriptions using AI analysis of your codebase and file structure.
 > `TypeScript`
 
 [**ids-learn**](https://github.com/louistrue/ids-learn) · [live](https://ids-learn.vercel.app)
@@ -71,8 +59,8 @@ passionate about merging sustainable construction with digital tools to build sm
 > `TypeScript`
 
 [**ifc-site**](https://github.com/louistrue/ifc-site) · [live](https://ifc-site-five.vercel.app)
-> Swiss cadastral data to georeferenced 3D IFC converter using geo.admin.ch APIs
-> `Python · FastAPI · GeoPandas · IfcOpenShell` · _Added Next.js web UI and integrated Mapbox Earcut for terrain triangulation_
+> Swiss cadastral data to georeferenced IFC converter using geo.admin.ch APIs
+> `Python · FastAPI · GeoPandas · IfcOpenShell` · _Integrated mapbox_earcut for terrain triangulation and added comprehensive visualization output_
 
 [**birdwatch-ai**](https://github.com/louistrue/birdwatch-ai)
 > Hybrid AI bird identification system combining visual detection (Hailo-8 NPU detection & TensorFlow Lite classification) with audio recognition (BirdNET) on Raspberry Pi 5. Outdoor IP camera, indoor processing, cross-referenced species dashboard & logging.
