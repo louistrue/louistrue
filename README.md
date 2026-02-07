@@ -15,24 +15,24 @@ passionate about merging sustainable construction with digital tools to build sm
 ## 🛠️ What I'm Building
 
 [**ifc-lite**](https://github.com/louistrue/ifc-lite) · [live](https://louistrue.github.io/ifc-lite/)
-> High-performance BIM viewer with WebGPU rendering and Rust/WASM parser for browser-native IFC visualization
-> `TypeScript · Rust · WebGPU · WASM`
+> Browser-native IFC viewer with WebGPU rendering and Rust/WASM parser for BIM visualization
+> `TypeScript · Rust · WebGPU · WASM` · _Fixed default client-side WASM loading behavior, removing server dependency requirement | Released v1.6.1 with optimized Rust release profile using LTO and panic abort_
 
 [**Issues**](https://github.com/louistrue/Issues) · [live](https://issues-puce.vercel.app)
-> Brutalist multi-repo GitHub issue aggregator designed for e-ink displays with zero user input
+> Brutalist multi-repo issue aggregator for e-ink displays with zero user input
 > `JavaScript · Node.js · GitHub API`
 
 [**ifc-flow**](https://github.com/louistrue/ifc-flow) · [live](https://ifcflow.com)
-> Visual node-based editor for IFC file processing with Monaco editor integration
+> Visual node-based tool for IFC file manipulation with Monaco editor integration
 > `TypeScript · Next.js · React Flow · Radix UI`
 
 [**ids-flow**](https://github.com/louistrue/ids-flow) · [live](https://www.idsedit.com/)
-> Visual drag-and-drop editor for buildingSMART IDS specifications with real-time XML validation
-> `TypeScript · Next.js · React · Radix UI`
+> Visual editor for buildingSMART IDS specifications with real-time XML validation
+> `TypeScript · Next.js · React · Radix UI` · _Fixed scroll overflow issues in menubar layout and IDS audit validation logic_
 
 [**family-calendar**](https://github.com/louistrue/family-calendar) · [live](https://family-calendar-ashen.vercel.app)
 > Multi-calendar aggregator with touchscreen display for ESP32 or Raspberry Pi hardware
-> `TypeScript · Next.js · ESP32 · Raspberry Pi`
+> `TypeScript · Next.js · ESP32 · Raspberry Pi` · _Corrected recurring event date handling preventing events from appearing on wrong days_
 
 [**ifcclash**](https://github.com/louistrue/ifcclash)
 > IFC clash detection tool with Flask API and React 3D viewer for detecting geometric conflicts in building models
@@ -55,8 +55,8 @@ passionate about merging sustainable construction with digital tools to build sm
 > `TypeScript`
 
 [**ifc-site**](https://github.com/louistrue/ifc-site) · [live](https://ifc-site-five.vercel.app)
-> Converts Swiss cadastral parcels into georeferenced 3D IFC models with terrain mesh triangulation
-> `Python · FastAPI · GeoPandas · IfcOpenShell`
+> Converts Swiss cadastral parcels to georeferenced 3D IFC models with terrain data
+> `Python · FastAPI · GeoPandas · IFCOpenShell` · _Added mapbox-earcut terrain triangulation and comprehensive React UI with CVE fixes_
 
 [**birdwatch-ai**](https://github.com/louistrue/birdwatch-ai)
 > Hybrid AI bird identification system combining visual detection (Hailo-8 NPU detection & TensorFlow Lite classification) with audio recognition (BirdNET) on Raspberry Pi 5. Outdoor IP camera, indoor processing, cross-referenced species dashboard & logging.
