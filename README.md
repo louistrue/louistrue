@@ -16,7 +16,7 @@ passionate about merging sustainable construction with digital tools to build sm
 
 [**ifc-lite**](https://github.com/louistrue/ifc-lite) · [live](https://louistrue.github.io/ifc-lite/)
 > High-performance BIM viewer with WebGPU rendering and Rust/WASM columnar parser
-> `TypeScript · Rust · WebGPU · WASM` · _Resolved cache collision and unsafe type casting in federated IFC loading hooks | Major refactor splitting large component files for better maintainability_
+> `TypeScript · Rust · WebGPU · WASM` · _Fixed cache collision and unsafe type casts in federated IFC loading hooks | Major refactor splitting large React components into manageable modules_
 
 [**Issues**](https://github.com/louistrue/Issues) · [live](https://issues-puce.vercel.app)
 > Brutalist multi-repo issue aggregator for landscape e-ink displays with zero input
@@ -28,7 +28,11 @@ passionate about merging sustainable construction with digital tools to build sm
 
 [**ids-flow**](https://github.com/louistrue/ids-flow) · [live](https://www.idsedit.com/)
 > Drag-and-drop editor for buildingSMART IDS specifications with real-time XML validation
-> `TypeScript · Next.js · Radix UI · React Hook Form` · _Fixed scroll overflow issues and refactored menubar layout for better UX | Implemented IDS audit validation with IfcTester-Service API integration_
+> `TypeScript · Next.js · React · Radix UI` · _Fixed scroll overflow issues and refactored menubar layout for better UX_
+
+[**ifc-view-gen**](https://github.com/louistrue/ifc-view-gen) · [live](https://door-view-creator.vercel.app)
+> Generate 2D technical drawings from IFC models using Three.js and SVG export
+> `JavaScript · Next.js · Three.js · ThatOpen Fragments` · _Switched to AGPL-3 license and added comprehensive documentation_
 
 [**family-calendar**](https://github.com/louistrue/family-calendar) · [live](https://family-calendar-ashen.vercel.app)
 > Multi-calendar aggregator with touchscreen support for ESP32 and Raspberry Pi
@@ -36,6 +40,10 @@ passionate about merging sustainable construction with digital tools to build sm
 
 [**ifcclash**](https://github.com/louistrue/ifcclash)
 > IFC clash detection tool with Flask API and React 3D viewer for detecting geometric conflicts in building models
+> `TypeScript`
+
+[**swiss-zoning-api**](https://github.com/louistrue/swiss-zoning-api) · [live](https://v0-swiss-zoning-api.vercel.app)
+> API for Swiss zoning codes, building regulations, and cadastral data with interactive maps and ÖREB integration
 > `TypeScript`
 
 [**ifc-data-browser**](https://github.com/louistrue/ifc-data-browser) · [live](https://ifcsql.com)
@@ -56,10 +64,14 @@ passionate about merging sustainable construction with digital tools to build sm
 
 [**ifc-site**](https://github.com/louistrue/ifc-site) · [live](https://ifc-site-five.vercel.app)
 > Swiss cadastral data to georeferenced 3D IFC converter using geo.admin.ch APIs
-> `Python · FastAPI · GeoPandas · IFCOpenShell` · _Added Mapbox earcut triangulation for terrain mesh generation and Blender visualization | Built complete React UI with FastAPI backend for Swiss parcel conversion_
+> `Python · FastAPI · GeoPandas · IfcOpenShell` · _Added mapbox-earcut for terrain triangulation and React UI with security fixes_
 
 [**birdwatch-ai**](https://github.com/louistrue/birdwatch-ai)
 > Hybrid AI bird identification system combining visual detection (Hailo-8 NPU detection & TensorFlow Lite classification) with audio recognition (BirdNET) on Raspberry Pi 5. Outdoor IP camera, indoor processing, cross-referenced species dashboard & logging.
+> `Python`
+
+[**lignum-dpp-bsdd**](https://github.com/louistrue/lignum-dpp-bsdd)
+> POC for the integration of Digital Product Passports in IFC using buildingSmart Data Dictionary (bSDD)
 > `Python`
 
 [**openBIM-service**](https://github.com/louistrue/openBIM-service) · [live](https://openbim-service-production.up.railway.app/docs)
