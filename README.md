@@ -15,28 +15,32 @@ passionate about merging sustainable construction with digital tools to build sm
 ## 🛠️ What I'm Building
 
 [**ifc-lite**](https://github.com/louistrue/ifc-lite) · [live](https://louistrue.github.io/ifc-lite/)
-> High-performance BIM viewer with WebGPU rendering and Rust/WASM columnar parser
-> `TypeScript · Rust · WebGPU · WASM` · _Fixed cache collision and unsafe type casts in federated IFC loading hooks | Major refactor splitting large React components into manageable modules_
+> High-performance browser IFC viewer using WebGPU rendering and Rust/WASM parser with columnar data storage
+> `TypeScript · Rust · WebGPU · WASM` · _Refactored isolation system to basket-based architecture with incremental operations for better performance | Added system color-scheme preference detection for automatic dark/light mode switching_
 
 [**Issues**](https://github.com/louistrue/Issues) · [live](https://issues-puce.vercel.app)
-> Brutalist multi-repo issue aggregator for landscape e-ink displays with zero input
+> Brutalist multi-repo issue aggregator designed for 3 landscape e-ink displays with zero user input
 > `JavaScript · Node.js · GitHub API`
 
 [**ifc-flow**](https://github.com/louistrue/ifc-flow) · [live](https://ifcflow.com)
-> Visual node-based IFC file processor with Monaco editor and React Flow
+> Visual node-based tool for IFC file manipulation with Monaco editor and React Flow interface
 > `TypeScript · Next.js · React Flow · Monaco Editor`
 
 [**ids-flow**](https://github.com/louistrue/ids-flow) · [live](https://www.idsedit.com/)
-> Drag-and-drop editor for buildingSMART IDS specifications with real-time XML validation
-> `TypeScript · Next.js · React · Radix UI` · _Fixed scroll overflow issues and refactored menubar layout for better UX_
+> Visual drag-and-drop editor for buildingSMART IDS specifications with real-time XML export and validation
+> `TypeScript · Next.js · React Flow · Radix UI` · _Fixed scroll overflow issues in menubar layout and refactored inspector panel components_
+
+[**ifc-rules-demo**](https://github.com/louistrue/ifc-rules-demo) · [live](https://ifc-rules-demo.vercel.app)
+> Rule-based IFC element selection using semantic criteria instead of brittle GUIDs with ifc-lite integration
+> `TypeScript · Vitest · TSup` · _Enhanced rule evaluation logic with property and spatial condition editors utilizing matched elements_
 
 [**ifc-view-gen**](https://github.com/louistrue/ifc-view-gen) · [live](https://door-view-creator.vercel.app)
-> Generate 2D technical drawings from IFC models using Three.js and SVG export
-> `JavaScript · Next.js · Three.js · ThatOpen Fragments` · _Switched to AGPL-3 license and added comprehensive documentation_
+> Generate professional 2D technical drawings from IFC models. Next.js app with fragments, Three.js viewer and SVG export/Airtable connection for building elements.
+> `JavaScript`
 
 [**family-calendar**](https://github.com/louistrue/family-calendar) · [live](https://family-calendar-ashen.vercel.app)
-> Multi-calendar aggregator with touchscreen support for ESP32 and Raspberry Pi
-> `TypeScript · ESP32 · Raspberry Pi`
+> Multi-calendar aggregator with touchscreen display for ESP32 or Raspberry Pi. Day/week/month views with auto-refresh and kiosk mode.
+> `TypeScript`
 
 [**ifcclash**](https://github.com/louistrue/ifcclash)
 > IFC clash detection tool with Flask API and React 3D viewer for detecting geometric conflicts in building models
@@ -50,10 +54,6 @@ passionate about merging sustainable construction with digital tools to build sm
 > Browse and query IFC building models as SQL databases in your browser—no installation required.
 > `TypeScript`
 
-[**model-checker**](https://github.com/louistrue/model-checker) · [live](https://modelcheck.opensource.construction/)
-> Web-based IFC model validator for BIM projects. Validates against IDS requirements and common issues using client-side WASM processing.
-> `TypeScript`
-
 [**ifc-classifier**](https://github.com/louistrue/ifc-classifier) · [live](https://ifcclassify.com)
 > Web-based 3D IFC classification editor. Assign Uniclass/eBKP-H references to models using Three.js and web-ifc.
 > `TypeScript`
@@ -62,9 +62,17 @@ passionate about merging sustainable construction with digital tools to build sm
 > Auto-generate professional GitHub repository descriptions using AI analysis of your codebase and file structure.
 > `TypeScript`
 
+[**model-checker**](https://github.com/louistrue/model-checker) · [live](https://modelcheck.opensource.construction/)
+> Web-based IFC model validator for BIM projects. Validates against IDS requirements and common issues using client-side WASM processing.
+> `TypeScript`
+
 [**ifc-site**](https://github.com/louistrue/ifc-site) · [live](https://ifc-site-five.vercel.app)
-> Swiss cadastral data to georeferenced 3D IFC converter using geo.admin.ch APIs
-> `Python · FastAPI · GeoPandas · IfcOpenShell` · _Added mapbox-earcut for terrain triangulation and React UI with security fixes_
+> Converts Swiss cadastral parcels into georeferenced 3D IFC models with terrain from geo.admin.ch APIs
+> `Python · FastAPI · GDAL · IfcOpenShell` · _Integrated mapbox_earcut for terrain triangulation and added Blender visualization output examples | Built complete React UI with FastAPI backend integration for web-based parcel conversion_
+
+[**llm-lca-material-match**](https://github.com/louistrue/llm-lca-material-match)
+> No description
+> `Python`
 
 [**birdwatch-ai**](https://github.com/louistrue/birdwatch-ai)
 > Hybrid AI bird identification system combining visual detection (Hailo-8 NPU detection & TensorFlow Lite classification) with audio recognition (BirdNET) on Raspberry Pi 5. Outdoor IP camera, indoor processing, cross-referenced species dashboard & logging.
