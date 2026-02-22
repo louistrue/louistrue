@@ -15,24 +15,28 @@ passionate about merging sustainable construction with digital tools to build sm
 ## 🛠️ What I'm Building
 
 [**ifc-lite**](https://github.com/louistrue/ifc-lite) · [live](https://louistrue.github.io/ifc-lite/)
-> High-performance browser IFC viewer using WebGPU rendering and Rust/WASM parser with columnar data storage
-> `TypeScript · Rust · WebGPU · WASM` · _Refactored isolation system to basket-based architecture with incremental operations for better performance | Added system color-scheme preference detection for automatic dark/light mode switching_
+> High-performance BIM viewer with Rust/WASM parser and WebGPU rendering for browser-native IFC visualization
+> `TypeScript · Rust · WebAssembly · WebGPU` · _Fixed first-load IFC colors and transparency issues in WebGPU viewport rendering pipeline | Enhanced Playwright testing config and added detailed benchmark regression analysis to README_
 
 [**Issues**](https://github.com/louistrue/Issues) · [live](https://issues-puce.vercel.app)
-> Brutalist multi-repo issue aggregator designed for 3 landscape e-ink displays with zero user input
+> Brutalist multi-repo GitHub issue aggregator designed for e-ink displays with zero user input
 > `JavaScript · Node.js · GitHub API`
-
-[**ifc-flow**](https://github.com/louistrue/ifc-flow) · [live](https://ifcflow.com)
-> Visual node-based tool for IFC file manipulation with Monaco editor and React Flow interface
-> `TypeScript · Next.js · React Flow · Monaco Editor`
 
 [**ids-flow**](https://github.com/louistrue/ids-flow) · [live](https://www.idsedit.com/)
 > Visual drag-and-drop editor for buildingSMART IDS specifications with real-time XML export and validation
-> `TypeScript · Next.js · React Flow · Radix UI` · _Fixed scroll overflow issues in menubar layout and refactored inspector panel components_
+> `TypeScript · Next.js · React · Radix UI` · _Implemented sessionStorage persistence to prevent project state loss during navigation between editor and docs | Fixed Ctrl+A keyboard shortcut to select graph nodes instead of text when canvas lacks focus_
+
+[**ifc5cad**](https://github.com/louistrue/ifc5cad) · [live](https://ifccad.xyz)
+> Browser-based 3D CAD for authoring IFC5/IFCX models using OpenCascade compiled to WebAssembly
+> `TypeScript · Three.js · WebAssembly · OpenCascade` · _Overhauled core geometry handling and fixed direct IFC export dropdown with import reconstruction_
+
+[**ifc-flow**](https://github.com/louistrue/ifc-flow) · [live](https://ifcflow.com)
+> Visual node-based tool for IFC file processing with AI integration and Monaco editor support
+> `TypeScript · Next.js · React Flow · OpenAI SDK`
 
 [**ifc-rules-demo**](https://github.com/louistrue/ifc-rules-demo) · [live](https://ifc-rules-demo.vercel.app)
-> Rule-based IFC element selection using semantic criteria instead of brittle GUIDs with ifc-lite integration
-> `TypeScript · Vitest · TSup` · _Enhanced rule evaluation logic with property and spatial condition editors utilizing matched elements_
+> Select IFC elements using semantic criteria and JSON rules instead of brittle GUIDs. TypeScript-based query engine.
+> `TypeScript`
 
 [**ifc-view-gen**](https://github.com/louistrue/ifc-view-gen) · [live](https://door-view-creator.vercel.app)
 > Generate professional 2D technical drawings from IFC models. Next.js app with fragments, Three.js viewer and SVG export/Airtable connection for building elements.
@@ -68,10 +72,10 @@ passionate about merging sustainable construction with digital tools to build sm
 
 [**ifc-site**](https://github.com/louistrue/ifc-site) · [live](https://ifc-site-five.vercel.app)
 > Converts Swiss cadastral parcels into georeferenced 3D IFC models with terrain from geo.admin.ch APIs
-> `Python · FastAPI · GDAL · IfcOpenShell` · _Integrated mapbox_earcut for terrain triangulation and added Blender visualization output examples | Built complete React UI with FastAPI backend integration for web-based parcel conversion_
+> `Python · FastAPI · GeoPandas · IfcOpenShell` · _Resolved React Server Components security vulnerabilities in web frontend dependencies_
 
 [**llm-lca-material-match**](https://github.com/louistrue/llm-lca-material-match)
-> No description
+> Match IFC building materials to LCA databases (KBOB, ÖKOBAUDAT) using hybrid embedding and LLM reranking pipelines.
 > `Python`
 
 [**birdwatch-ai**](https://github.com/louistrue/birdwatch-ai)
@@ -80,10 +84,6 @@ passionate about merging sustainable construction with digital tools to build sm
 
 [**lignum-dpp-bsdd**](https://github.com/louistrue/lignum-dpp-bsdd)
 > POC for the integration of Digital Product Passports in IFC using buildingSmart Data Dictionary (bSDD)
-> `Python`
-
-[**openBIM-service**](https://github.com/louistrue/openBIM-service) · [live](https://openbim-service-production.up.railway.app/docs)
-> FastAPI Service for parsing Ifc files using IfcOpenShell
 > `Python`
 
 [**T-Display-S3-Long**](https://github.com/louistrue/T-Display-S3-Long)
